@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Fajar Rizky Widodo]
+NIU : [463599]  
+Sesi : [2]  
+Secret String : [6b7c9b42a93dcccb39834e657cde391f24cad7bdd5c193660f48c21007df344c20230616071110]
 
 ## Checklist Responsi
 
